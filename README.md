@@ -5,7 +5,7 @@ Three functions in main repository:
 1. data_prep: Preprocessing of the data, obtaining pictures and labels. 
 For tasks A1 and A2 also extract features using shape_predictor_68_face_landmarks.dat
 
-2. hyperparameter_set: Function to plot the accuracy agains a value of a certain hyperparameter. 
+2. hyperparameter_set: Function to plot the accuracy against a value of a certain hyperparameter. 
 For each one to be estimated, changes must be made to the value of the parameter and the algorithm.
 
 3. main: Function to be executed. Only calls data_prep. Prints accuracy values for every task.
