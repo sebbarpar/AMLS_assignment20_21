@@ -1,6 +1,12 @@
 # AMLS_assignment20_21
 Student number: 19162034
 
+Four machine learning classification tasks:
+1. Classify a set of images as male/female
+2. Classify as smiling/not smiling
+3. Classify eye color of cartoon
+4. Classify face shape of cartoon.
+
 Three functions in main repository:
 1. data_prep: Preprocessing of the data, obtaining pictures and labels. 
 For tasks A1 and A2 also extract features using shape_predictor_68_face_landmarks.dat
